@@ -1,0 +1,17 @@
+src
+tsconfig.json
+tslint.json
+.prettierrc.js
+.eslintrc.js
+.github/
+example/
+lib/typescript/example
+android/build
+ios/build
+**/__tests__
+**/__fixtures__
+**/__mocks__
+docs/
+betaExample/
+scripts/
+.vscode/

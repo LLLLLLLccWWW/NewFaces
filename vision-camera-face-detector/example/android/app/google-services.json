@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797038837191",
+    "project_id": "newfaces-f7488",
+    "storage_bucket": "newfaces-f7488.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797038837191:android:fb92f5d0fc72a7a90e6de2",
+        "android_client_info": {
+          "package_name": "com.example.visioncamerafacedetector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9mspo1jtshijPRI0fGjunIYSaHo5h8Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
